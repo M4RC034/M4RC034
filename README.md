@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @M4RC034
-- 👀 Natural Language Processing / Computational Linguistics / Sentimental Analysis
+- 👀 Natural Language Processing / Computational Linguistics / Speech Processing
 - 🌱 I’m currently an undergraduate student double majoring in Computer Science and English at NTNU
 
 <!---
